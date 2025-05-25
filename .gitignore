@@ -39,3 +39,5 @@ nosetests.xml
 # for PyCharm and venv
 .idea
 venv
+
+*.xml
